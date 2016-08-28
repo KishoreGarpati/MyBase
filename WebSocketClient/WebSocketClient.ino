@@ -8,7 +8,7 @@
 const char* ssid     = "....";
 const char* password = "....";
 //const char* ssid     = "MotoG3";
-//const char* password = "badrobot";
+//const char* password = "****";
 char path[] = "/ws";
 char host[] = "192.168.0.116";
   
