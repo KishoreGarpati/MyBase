@@ -1,3 +1,5 @@
+/*Description : Read the sensor value and push it to Web Socket. */
+
 #include <ESP8266WiFi.h>
 #include <WebSocketClient.h>
 

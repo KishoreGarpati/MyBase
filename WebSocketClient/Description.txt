@@ -1,1 +1,0 @@
-Read the sensor value and push it to Web Socket.
