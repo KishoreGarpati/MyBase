@@ -3,8 +3,8 @@
 
 //ADC_MODE(ADC_VCC);
 
-const char* ssid     = "t3..";
-const char* password = "worldcup@15";
+const char* ssid     = "....";
+const char* password = "....";
 //const char* ssid     = "MotoG3";
 //const char* password = "badrobot";
 char path[] = "/ws";
