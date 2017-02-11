@@ -4,8 +4,8 @@
 #include <IRremoteESP8266.h>
 #include <ESP8266mDNS.h>
 
-const char* ssid = "HANUMAN FOURTH FLOOR";
-const char* password = "pongal@15";
+const char* ssid = "------------SSID------------";
+const char* password = "----------PASSWORD----------";
 MDNSResponder mdns;
 
 IRsend irsend(4); //an IR led is connected to GPIO pin 0
